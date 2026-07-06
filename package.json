@@ -2,6 +2,12 @@
   "name": "graph-ui",
   "private": true,
   "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tangfeng2/codebase-memory-ui.git"
+  },
+  "homepage": "https://github.com/tangfeng2/codebase-memory-ui",
   "type": "module",
   "scripts": {
     "dev": "vite",
