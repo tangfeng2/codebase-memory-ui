@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+
+
+.agents
+
+node_modules/
+dist/
+build/
+
+*.local
+*.tsbuildinfo
