@@ -78,19 +78,6 @@ src/
   lib/             Shared types, colors, camera helpers, i18n
 ```
 
-Runtime imports use the Vite alias `@`, which points to `src`.
-
-Use:
-
-```ts
-import Button from "@/components/ui/Button.vue";
-```
-
-This resolves to:
-
-```text
-src/components/ui/Button.vue
-```
 
 ## License
 
